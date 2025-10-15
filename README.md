@@ -70,7 +70,8 @@ Grad-CAM (Gradient-weighted Class Activation Mapping) highlights the MRI regions
 
 | Input MRI | Grad-CAM Heatmap |
 |------------|------------------|
-| <img src="assets/sample_input.jpg" width="200"/> | <img width="514" height="390" alt="image" src="https://github.com/user-attachments/assets/c879089e-e090-46de-8108-a2be882f0bec" />
+| <img width="514" height="390" alt="image" src="https://github.com/user-attachments/assets/d0bd8fa2-8f05-4a11-917e-ac9b9bdf6461" />
+| <img width="514" height="390" alt="image" src="https://github.com/user-attachments/assets/c879089e-e090-46de-8108-a2be882f0bec" />
 |
 
 ---
