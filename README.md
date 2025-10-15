@@ -33,7 +33,6 @@ A **Streamlit web app** was developed for interactive online demonstration and i
 - **Preprocessing:**
   - Image resizing (e.g., 224×224)
   - Normalization to [0, 1]
-  - Train/validation/test split: 70/15/15
 
 ---
 
