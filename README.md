@@ -24,7 +24,7 @@ A **Streamlit web app** was developed for interactive online demonstration and i
 
 ## 🧬 Dataset
 
-- **Source:** Publicly available brain MRI datasets (e.g., [Kaggle Brain Tumor Dataset]([https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)))  
+- **Source:** Publicly available brain MRI datasets (e.g., [Kaggle Brain Tumor Dataset]([[https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)]))  
 - **Classes:**  
   - Glioma Tumor  
   - Meningioma Tumor  
